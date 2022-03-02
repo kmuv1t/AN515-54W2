@@ -5,7 +5,7 @@
 </h1>
 <h6 align="center">macOS Monterey no Acer Nitro 5 AN515-54W2.</h6>
 
-<h6 align="center">[Inglês](README.md) | [Português](README-pt-BR.md)</h6>
+[Inglês](README.md) | [Português](README-pt-BR.md)
 
 [![badge](https://img.shields.io/badge/macOS-Monterey_V12.2.1-white.svg)]() 
 [![badge](https://img.shields.io/badge/OpenCore-V0.7.8-blue.svg)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.7.8)
