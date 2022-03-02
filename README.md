@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cfaac04b-38ee-4f3b-9b98-fe2d477531d4/d7en4bm-07209abb-bfea-4bfe-bae3-d3062f420d6e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmYWFjMDRiLTM4ZWUtNGYzYi05Yjk4LWZlMmQ0Nzc1MzFkNFwvZDdlbjRibS0wNzIwOWFiYi1iZmVhLTRiZmUtYmFlMy1kMzA2MmY0MjBkNmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wgDcllJ960joJZUdCjsUaI-7jVJ1bK9v7zR6Q3p0qYw" alt="Hackintosh" width="200px">
+  <img src="img/logo.png" alt="Hackintosh" width="200px">
   <br>
     Acer Nitro 5 AN515-54W2 - Hackintosh
 </h1>
