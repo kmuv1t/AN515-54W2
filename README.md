@@ -39,6 +39,7 @@
 - ✅ Ethernet
 - ✅ Sleep + Wake
 - ✅ Smart Touchpad + Gestures
+- ✅ USB & Type C Ports
 - ✅ WiFi (2.4Ghz & 5GHz) and Bluetooth
 - ✅ Native hotkey support with Fn keys
 - ✅ iServices (Messages, FaceTime, etc.)
