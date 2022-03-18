@@ -8,7 +8,7 @@
 [English](README.md) | [Portuguese](README-pt-BR.md)
 
 [![badge](https://img.shields.io/badge/macOS-Monterey_V12.2.1-white.svg)]() 
-[![badge](https://img.shields.io/badge/OpenCore-V0.7.8-blue.svg)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.7.8)
+[![badge](https://img.shields.io/badge/OpenCore-V0.7.9-blue.svg)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.7.8)
 
 <img src="img/Specs.png" alt="macOS Monterey">
 <img src="img/Boot.png" alt="OpenCore Boot">
@@ -28,7 +28,7 @@
 | HC-GPIO                                                                         | Intel® Serial IO GPIO - INT3450                        |
 | Touchpad                                                                        | ELAN 0504                                              |
 | BIOS                                                                            | V1.33                                                  |
-| [OpenCore](https://github.com/acidanthera/OpenCorePkg)                          | V0.7.8                                                 |
+| [OpenCore](https://github.com/acidanthera/OpenCorePkg)                          | V0.7.9                                                 |
 | [CFG Lock](https://www.reddit.com/r/hackintosh/comments/hz2rtm/cfg_lockunlocking_alternative_method) | Unlocked (CPU Power Management & Kernel(XNU))          |
 
 ## What's working
